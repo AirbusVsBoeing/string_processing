@@ -1,4 +1,5 @@
 // Elijah Einstein <elijahei@buffalo.edu>
+// NOTE: autograder score is 72.0
 
 #include <iostream>
 #include <fstream>
